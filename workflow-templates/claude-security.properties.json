@@ -1,0 +1,7 @@
+{
+  "name": "Claude Security Review",
+  "description": "OWASP-aligned security-only review on every PR. Dedicated severity-tagged findings, runs alongside the general auto-review.",
+  "iconName": "shield-lock",
+  "categories": ["Security", "Code Review"],
+  "filePatterns": []
+}
