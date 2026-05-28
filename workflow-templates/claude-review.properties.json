@@ -1,0 +1,7 @@
+{
+  "name": "Claude Auto Review",
+  "description": "Run Claude Code @claude review on every PR (and on @claude mentions in PR comments). Reuses CLAUDE_CODE_OAUTH_TOKEN at org level.",
+  "iconName": "shield-check",
+  "categories": ["Code Review", "Code Quality"],
+  "filePatterns": []
+}
